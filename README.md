@@ -1,7 +1,7 @@
 # morph4k-presets
 **Morph 4K Presets and Masks**
 
-Pre-made mask and color profile set. Contains 564 masks, most from MiSTer and rest were handmade based on Retroarch sources or examples.
+Pre-made mask and color profile set. Contains 564 masks, most from [MiSTer](https://github.com/MiSTer-devel) and rest were handmade based on [RetroArch](https://www.retroarch.com/) sources or examples.
 
 | Contributor | Last Updated |
 | :---: | :---: |
