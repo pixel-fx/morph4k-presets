@@ -5,8 +5,8 @@ Pre-made mask and color profile set. Contains 564 masks, most from [MiSTer](http
 
 | Contributor | Last Updated |
 | :---: | :---: |
-| Gaw | 05-14-2025 |
-| Lo0twig | 05-14-2025 |
+| Gaw | 05-22-2025 |
+| Lo0twig | 05-22-2025 |
 
 <h2>DV1 Config Files for MiSTer Cores</h3>
 
