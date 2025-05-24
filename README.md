@@ -1,5 +1,5 @@
 # morph4k-presets
-**Morph 4K Presets and Masks**
+<h2>Morph 4K Presets and Masks</h3>
 
 Pre-made mask and color profile set. Contains 564 masks, most from [MiSTer](https://github.com/MiSTer-devel) and rest were handmade based on [RetroArch](https://www.retroarch.com/) sources or examples.
 
@@ -8,9 +8,11 @@ Pre-made mask and color profile set. Contains 564 masks, most from [MiSTer](http
 | Gaw | 05-14-2025 |
 | Lo0twig | 05-14-2025 |
 
-**DV1 Config Files for MiSTer Cores**
+<h2>DV1 Config Files for MiSTer Cores</h3>
 
 For cores that do not supply complete DV1 metadata.
+
+<h3>Arcade</h3>
 
 | Config File | MiSTer Core | Contributor | Last Updated |
 | :---: | :---: | :---: | :---: |
@@ -22,5 +24,11 @@ For cores that do not supply complete DV1 metadata.
 | snk m68000.ini * | [SNK M68000](https://github.com/va7deo/SNK68) [1](https://github.com/va7deo/PrehistoricIsle) [2](https://github.com/va7deo/alpha68k) [3](https://github.com/va7deo/NextSpace) | JesusBurnsNeon | 01-17-2025 |
 | toaplan v1.ini * | [Toaplan v1](https://github.com/va7deo/zerowing) [1](https://github.com/va7deo/rallybike) [2](https://github.com/va7deo/vimana) [3](https://github.com/va7deo/demonswld) | JesusBurnsNeon | 01-12-2025 |
 | toaplan v2.ini * | [Toaplan v2](https://github.com/atrac17/Toaplan2) | JesusBurnsNeon | 01-12-2025 |
+
+<h3>Console</h3>
+
+| Config File | MiSTer Core | Contributor | Last Updated |
+| :---: | :---: | :---: | :---: |
+| Jaguar.ini | [Atari Jaguar](https://github.com/MiSTer-devel/Jaguar_MiSTer) | JesusBurnsNeon | 05-24-2025 |
 
 (*) Requires Morph firmware 3.9.46.135 or greater. Some have a short ROM RAM check sequence. With Raizing, allow 1-5 mins for the ROM RAM check to pass before the core loads.
