@@ -32,3 +32,4 @@ For cores that do not supply complete DV1 metadata.
 | Jaguar.ini | [Atari Jaguar](https://github.com/MiSTer-devel/Jaguar_MiSTer) | JesusBurnsNeon | 05-24-2025 |
 
 (*) Requires Morph firmware 3.9.46.135 or greater. Some have a short ROM RAM check sequence. With Raizing, allow 1-5 mins for the ROM RAM check to pass before the core loads.
+
